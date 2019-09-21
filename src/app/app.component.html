@@ -1,0 +1,10 @@
+
+<link  *ngIf="dynamicFlag" type="text/css" rel="stylesheet" [href]='sanitizer.bypassSecurityTrustResourceUrl(dynamicCSSUrl)'>
+ 
+<div (click)="dynamicLoading()">Dynamic Loading</div>
+
+<h1> VJ Tech Diary </h1>
+<h2> Angular Tutorial </h2>
+<h3> Loading CSS dynamically into Angular application </h3>
+
+<router-outlet></router-outlet>
