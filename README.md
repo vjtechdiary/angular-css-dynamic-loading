@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Tutorial 
 
-Read tutorial [Loading CSS dynamically into Angular application](https://vjtechworld.com/2019/09/loading-css-dynamically-into-angular.html) on [VJ Tech Diary](https://vjtechworld.com). 
+Read tutorial [Loading CSS dynamically into Angular application](https://vjtechworld.com/2019/09/loading-css-dynamically-into-angular.html) on [VJ Tech World](https://vjtechworld.com). 
 
 ## Install Dependencies
 
